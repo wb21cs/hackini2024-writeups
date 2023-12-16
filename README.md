@@ -1,2 +1,2 @@
-# hackini2023-writeups
-Writeups for the challenges i solved in Shellmates HackIni 2023
+# hackini2024-writeups
+Writeups for the challenges i solved in Shellmates Hack.INI 2024
